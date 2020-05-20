@@ -89,6 +89,7 @@ node (32285, 31137, 7)
 node (32278, 31141, 7)
 node (32270,31141,7)
 action deposit
+action refill
 node (32274,31141,7)
 action check_time
 label train
