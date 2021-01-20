@@ -13,11 +13,14 @@
 {
 	"loot_bp":"Yellow Backpack"
 },
-"tools": {},
+"tools": {
+	"rope": {"name":"rope", "id":3003},
+	"shovel": {"name":"light shovel", "id":5710}
+},
 "items":
 {
 	"mana potion": {"hotkey":"f8", "id":268, "use":"self"},
-	"ultimate health potion": {"hotkey":"f5", "id":7643, "use":"self"},
+	"strong health potion": {"hotkey":"f5", "id":236, "use":"self"},
 	"brown mushroom": {"hotkey":"f11", "id":3725, "use":"use"}
 },
 "spells":
